@@ -1,0 +1,6 @@
+@media only screen and (max-width:991px){
+     .sec{
+      display: flex;
+      flex-direction: column;
+     }
+}

@@ -1,0 +1,16 @@
+.info-sec{
+    width: 50%;
+}
+@media only screen and (max-width:991px){
+    .info-sec{
+      width: 100%;
+    }
+}
+
+.info-data{
+    padding: 80px 200px 10px 0px;
+}
+.recipe-info{
+    /* padding-right: 50px; */
+    text-align: right;
+}

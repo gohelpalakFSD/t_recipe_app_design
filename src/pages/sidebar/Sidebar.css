@@ -1,0 +1,36 @@
+.sidebar{
+    width: 50%;
+    background-color: rgb(42, 199, 230);
+    height: 92vh;
+}
+@media only screen and (max-width:991px){
+    .sidebar{
+      width: 100%;
+    }
+    .side-info h1{
+        font-size: 50px !important;
+    }
+}
+*{
+    margin: 0px;
+}
+.side-info{
+    padding: 5px 60px;
+    margin-top: -32px;
+    background-color: rgb(52, 71, 71);
+}
+.side-info h1{
+    text-align:left;
+    color: white;
+    max-width: 700px;
+    font-size: 100px;
+}
+.side-info h3{
+    color: rgb(214, 213, 213);
+    margin-top: 10px;
+}
+.sidebar-img{
+    width: 400px;
+    margin-left: -70px;
+    margin-top: -80px;
+}

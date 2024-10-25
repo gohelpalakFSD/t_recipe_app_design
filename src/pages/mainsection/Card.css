@@ -1,0 +1,19 @@
+@media only screen and (max-width:991px)and ( min-width:500px){
+    .card-data{
+      width: 50%;
+    }
+    .side-info h1{
+        font-size: 50px;
+    }
+}
+.card-data{
+    width: 33%;
+}
+@media only screen and (max-width:449px){
+    .card-data{
+      width: 100%;
+    }
+    .side-info h1{
+        font-size: 50px;
+    }
+}
